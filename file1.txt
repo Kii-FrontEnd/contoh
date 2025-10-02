@@ -1,10 +1,5 @@
-<<<<<<< HEAD
-ini perubahan rizki yo
-test test test masuk 4
-ini baris baru 1s
-=======
 ini perubahan rizki aja
 test test test test masuk
 ini baris baru 3s
->>>>>>> main
 tambah 1
+Jurusan : D3 Sistem Informasi
