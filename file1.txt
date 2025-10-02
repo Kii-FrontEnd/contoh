@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-sad test 2
-=======
-file baru
-lalallalal
->>>>>>> main
+ini baru file 1
+nnti lanjutkan
+oke
