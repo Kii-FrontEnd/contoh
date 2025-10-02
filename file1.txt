@@ -1,5 +1,9 @@
 ini perubahan rizki aja
 test test test test masuk
 ini baris baru 3s
+<<<<<<< HEAD
 tambah 1
 Jurusan : D3 Sistem Informasi
+=======
+tambah 1
+>>>>>>> main
