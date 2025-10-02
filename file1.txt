@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+sad test 2
+=======
+file baru
+lalallalal
+>>>>>>> main
