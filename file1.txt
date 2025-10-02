@@ -1,9 +1,4 @@
-<<<<<<< HEAD
-ini perubahan rizki 2
-test test test test
-ini baris baru 2s
-=======
-ini perubahan rizki 1
-test test test aja
-ini baris lama
->>>>>>> latihan
+ini perubahan rizki yo
+test test test masuk 4
+ini baris baru 1s
+tambah 1
