@@ -1,3 +1,3 @@
-ini perubahan rizki
-test test test
-ini baris baru
+ini perubahan rizki 2
+test test test test
+ini baris baru 2s
